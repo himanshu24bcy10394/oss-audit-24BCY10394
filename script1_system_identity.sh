@@ -4,7 +4,7 @@
 # Description: Displays basic system information
 
 # --- Variables ---
-STUDENT_NAME="Your Name"
+STUDENT_NAME="Himanshu"
 SOFTWARE_CHOICE="Linux Kernel"
 
 # --- System Info ---
