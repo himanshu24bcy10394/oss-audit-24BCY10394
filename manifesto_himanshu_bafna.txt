@@ -1,0 +1,4 @@
+On 31 March 2026, I reflect on the power of open source.
+Using tools like Linux kernal, I understand that software freedom means integrity.
+I believe in building systems like firewalls and sharing them with the world.
+Open source is not just code—it is a philosophy of collaboration and trust.
